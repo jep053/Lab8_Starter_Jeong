@@ -1,5 +1,7 @@
 # Lab8-Starter
-Jeong Park and Andrew Lopez 
+Name: Jeong Park & Andrew Lopez 
+
+Page URL:  [PageURL](https://jep053.github.io/Lab8_Starter_Jeong/)
 
 ## How are graceful degradation and service workers related?
 
